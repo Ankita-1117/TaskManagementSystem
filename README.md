@@ -90,6 +90,7 @@ Steps to run client
 
 LOGIN CREDENTIALS
 Use the following credentials to log in as an Admin:
+
 Username: admin@gmail.com
 Password: zidio1234
 
